@@ -1,0 +1,318 @@
+{
+  "nav": {
+    "dashboard": "My dashboard",
+    "schedule": "Daily schedule",
+    "week": "Weekly schedule",
+    "progress": "My progress",
+    "notes": "My notes",
+    "exams": "Exam countdown",
+    "motivation": "Motivation",
+    "skipLink": "Skip to your study space"
+  },
+  "brand": {
+    "home": "Study Quest home",
+    "tagline": "A SPACE TO GROW",
+    "collapse": "Collapse sidebar to make more space",
+    "expand": "Expand sidebar"
+  },
+  "timer": {
+    "heading": "Find your focus",
+    "running": "Timer running",
+    "idle": "Timer idle",
+    "studyTime": "Study time",
+    "shortBreak": "Short break",
+    "pause": "Pause session",
+    "start": "Start focusing",
+    "startBreak": "Start break",
+    "keepGoing": "Keep going",
+    "reset": "Reset timer",
+    "focusDescription": "One subject. One small step.",
+    "restDescription": "Stretch, breathe, sip some water.",
+    "note": "Make room for progress, not perfection.",
+    "focusFinished": "Nice work! Check off your quest when ready.",
+    "restFinished": "Feeling refreshed? Your next step is waiting."
+  },
+  "profile": {
+    "mySpace": "My study space",
+    "classOf": "Class of",
+    "offline": "Offline and private"
+  },
+  "guide": {
+    "button": "A little guide",
+    "close": "Close guide",
+    "title": "Your space, your pace.",
+    "subtitle": "A tiny guide to a little more confidence.",
+    "quest": {
+      "title": "A few daily quests",
+      "description": "Your subjects follow your weekly schedule. Finish homework or a review, then check off the quest. Sunday is a rest day."
+    },
+    "xp": {
+      "title": "Little wins add up",
+      "description": "Each quest earns 25 XP. Unchecking it removes that XP. Every 250 XP is a new level. The 1,000 XP readiness goal measures study effort—not your predicted exam score."
+    },
+    "rhythm": {
+      "title": "Find your rhythm",
+      "description": "Try 25 minutes of focus and a 5-minute break. The timer doesn't complete quests for you. It resets when you close the app."
+    },
+    "privacy": {
+      "title": "Private and local",
+      "description": "No account, ads, or internet needed. Progress stays in this app on this device. It won't sync to another device, and clearing app data removes it. Browser previews and the packaged app have separate saves."
+    },
+    "done": "Got it. Let's grow"
+  },
+  "readiness": {
+    "eyebrow": "THE BIG PICTURE",
+    "tag": "BREVET · 3APIC",
+    "heading": "Regional Exam Readiness",
+    "description": "Every quest is a little more confidence for exam day.",
+    "ofGoal": "of your study goal",
+    "growing": "You're planting the seeds. Keep showing up.",
+    "complete": "A whole goal, one small step at a time. Keep growing!",
+    "viewProgress": "Your journey",
+    "viewQuests": "Today's quests"
+  },
+  "stats": {
+    "todayQuests": "Today's quests",
+    "allDone": "All done. Go you!",
+    "littleWins": "little wins",
+    "restRecharge": "Rest & recharge",
+    "totalXp": "Total experience",
+    "level": "Level",
+    "streak": "Study-day streak",
+    "day": "day",
+    "days": "days",
+    "keepGlow": "Keep your glow",
+    "startSpark": "Start a little spark"
+  },
+  "quests": {
+    "heading": "Today's quests",
+    "description": "A bit of homework or a 25-minute review. Your choice.",
+    "complete": "Complete",
+    "homework": "Homework or 25-min review",
+    "activity": "Activity or review",
+    "allDone": "All your quests are complete. That's a day worth celebrating!",
+    "encouragement": "Small steps still move you forward. You're doing better than you think."
+  },
+  "sunday": {
+    "heading": "Rest is part of the journey.",
+    "description": "No quests today. Make time for something you love.",
+    "nextChapter": "Your next chapter starts on Monday.",
+    "viewWeek": "Peek at your weekly subjects"
+  },
+  "week": {
+    "heading": "Your week, at a glance",
+    "description": "A little structure. Plenty of room to grow.",
+    "today": "Today",
+    "completed": "Completed",
+    "quests": "quests",
+    "available": "XP available",
+    "restDay": "A well-earned day to recharge.",
+    "note": "This is your weekly class schedule. Check off study quests on today's dashboard."
+  },
+  "progress": {
+    "heading": "Look how far you're growing",
+    "description": "Every small effort belongs here.",
+    "thisWeek": "This week's little wins",
+    "milestones": "Your milestones",
+    "active": "active",
+    "achieved": "Achieved",
+    "keepGrowing": "Keep growing",
+    "note": "XP reflects completed quests, not grades. Streaks count study days with at least one quest; Sundays are always free."
+  },
+  "milestones": {
+    "first": {
+      "name": "First little step",
+      "description": "Complete your first quest"
+    },
+    "flow": {
+      "name": "Finding your flow",
+      "description": "Build a 3-study-day streak"
+    },
+    "curious": {
+      "name": "Curious mind",
+      "description": "Collect 250 XP"
+    },
+    "stronger": {
+      "name": "Growing stronger",
+      "description": "Reach your 1,000 XP goal"
+    }
+  },
+  "level": {
+    "eyebrow": "YOUR ADVENTURE",
+    "beginner": "Curious beginner",
+    "explorer": "Growing explorer",
+    "bookworm": "Brave bookworm",
+    "toNext": "XP to your next level",
+    "progressLabel": "Progress toward level"
+  },
+  "reminder": {
+    "heading": "A LITTLE REMINDER",
+    "quote": "You don't have to be perfect to be pretty amazing."
+  },
+  "footer": {
+    "tagline": "A calmer kind of productive.",
+    "offline": "Just you & your goals. Saved on this device.",
+    "checkStorage": "Check storage notice above"
+  },
+  "growCard": {
+    "heading": "Growing at your own pace.",
+    "description": "You don't have to do it all. Just your next little thing.",
+    "tagline": "YOU'VE GOT THIS"
+  },
+  "page": {
+    "dashboard": {
+      "eyebrow": "YOUR NEXT CHAPTER STARTS HERE",
+      "heading": "A little progress, every day.",
+      "description": "Big dreams start with little wins. Let's collect a few today."
+    },
+    "week": {
+      "eyebrow": "YOUR NEXT CHAPTER STARTS HERE",
+      "heading": "Make space for your week.",
+      "description": "Your subjects, your rhythm. Take it one day at a time."
+    },
+    "progress": {
+      "eyebrow": "YOUR NEXT CHAPTER STARTS HERE",
+      "heading": "Small steps. Real progress.",
+      "description": "Not a race. Just a lovely reminder that your effort adds up."
+    },
+    "notes": {
+      "eyebrow": "YOUR STUDY COMPANION",
+      "heading": "Quick notes, big ideas.",
+      "description": "Jot down key points, vocab, or anything worth remembering."
+    },
+    "exams": {
+      "eyebrow": "STAY AHEAD",
+      "heading": "Exam countdown.",
+      "description": "Track your upcoming exams so nothing sneaks up on you."
+    },
+    "motivation": {
+      "eyebrow": "A LITTLE BOOST",
+      "heading": "You're doing better than you think.",
+      "description": "A few reminders to keep your spark alive."
+    },
+    "schedule": {
+      "eyebrow": "YOUR DAY AT A GLANCE",
+      "heading": "Your daily schedule.",
+      "description": "From wake-up to lights out — every block of your day, planned and ready."
+    }
+  },
+  "categories": {
+    "sciences": "Sciences",
+    "languages": "Languages",
+    "humanities": "Humanities",
+    "wellbeing": "Well-being"
+  },
+  "subjects": {
+    "math": {
+      "name": "Math",
+      "task": "One problem at a time. You’ve got this."
+    },
+    "physics": {
+      "name": "Physics & Chemistry",
+      "task": "Turn a little curiosity into understanding."
+    },
+    "arabic": {
+      "name": "Arabic",
+      "task": "Read, write, and find your flow."
+    },
+    "french": {
+      "name": "French",
+      "task": "A little grammar, a little confidence."
+    },
+    "english": {
+      "name": "English",
+      "task": "New words open up new worlds."
+    },
+    "islamic": {
+      "name": "Islamic Education",
+      "task": "Take a moment to review and reflect."
+    },
+    "social": {
+      "name": "Social Studies",
+      "task": "Connect the people, places, and ideas."
+    },
+    "svt": {
+      "name": "Life & Earth Sciences (SVT)",
+      "task": "Explore the world, one concept at a time."
+    },
+    "pe": {
+      "name": "Physical Education",
+      "task": "Move, stretch, and recharge."
+    },
+    "history": {
+      "name": "History & Geography",
+      "task": "Chapter review or summary notes"
+    },
+    "civics": {
+      "name": "Civic Education",
+      "task": "Lesson review or reflection"
+    }
+  },
+  "days": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "daysShort": {
+    "sunday": "Sun",
+    "monday": "Mon",
+    "tuesday": "Tue",
+    "wednesday": "Wed",
+    "thursday": "Thu",
+    "friday": "Fri",
+    "saturday": "Sat"
+  },
+  "notes": {
+    "heading": "Your study notes",
+    "description": "Quick thoughts, key vocab, or anything worth saving.",
+    "placeholder": "Write a note… (Ctrl+Enter to save)",
+    "save": "Save note",
+    "delete": "Delete note",
+    "empty": "No notes yet. Write your first one above."
+  },
+  "exams": {
+    "heading": "Exam countdown",
+    "description": "Add your upcoming exams and track how many days you have left.",
+    "add": "Add exam",
+    "save": "Save exam",
+    "remove": "Remove exam",
+    "empty": "No exams added yet. Hit \"Add exam\" to get started.",
+    "daysLeft": "days left",
+    "today": "Today!",
+    "passed": "Passed"
+  },
+  "motivation": {
+    "heading": "Stay inspired",
+    "description": "Little boosts for big moments. You've got this.",
+    "affirmationTitle": "Today's affirmation",
+    "shuffle": "Next affirmation",
+    "tipsTitle": "Study smart tips",
+    "challengeTitle": "Micro-challenge",
+    "challengeText": "Pick one subject right now. Open your notebook, set a 5-minute timer, and write down the 3 most important things you remember from your last lesson. Done? That's progress.",
+    "affirmations": {
+      "aff1": "You don't have to be perfect to make real progress.",
+      "aff2": "Every page you read is a step closer to your goal.",
+      "aff3": "Hard days are proof you're doing something that matters.",
+      "aff4": "You've survived every difficult day so far — this one too.",
+      "aff5": "Small efforts compound into extraordinary results.",
+      "aff6": "Your curiosity is your greatest superpower."
+    },
+    "tips": {
+      "tip1": "Study in 25-minute sprints with 5-minute breaks. Your brain retains more when it gets to rest.",
+      "tip2": "Rewrite your notes by hand. Writing helps you remember better than just reading.",
+      "tip3": "Test yourself before re-reading. Retrieval practice beats passive review every time.",
+      "tip4": "Start with the subject you find hardest — tackle it while your energy is highest.",
+      "tip5": "Explain a concept out loud as if teaching it. If you can teach it, you understand it.",
+      "tip6": "A good night's sleep after studying locks in your memory. Rest is part of learning."
+    }
+  },
+  "announcements": {
+    "newDay": "A new day has started. Your quests have been refreshed.",
+    "questComplete": "complete. A little win and 25 XP for you!",
+    "questReopened": "reopened. 25 XP removed."
+  }
+}
